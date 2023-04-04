@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:com.unity.multiplayer.mlapi/Runtime/Core/Experimental/NetworkRPCQueueManager.cs.meta
+guid: 0ba9d261f28bd4d46b139b3fe6368d87
+=======
+guid: e2c328a4aae6b492f8999cd803e20bb2
+>>>>>>> origin/experimental-stdrpcapi:com.unity.multiplayer.mlapi/Editor/CodeGen/MLAPIRuntimeILPP.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
